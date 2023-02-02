@@ -26,7 +26,7 @@ Values in the tuple  cannot form a triangle because the combined value of sides 
 
 ## Screenshots
 
-![Screenshot](https://s3.amazonaws.com/hr-challenge-images/12887/1443815629-ac2a843fb7-1.pn)
+![Screenshot](https://s3.amazonaws.com/hr-challenge-images/12889/1443816608-0b4d01d157-2.png)
 
 
 
